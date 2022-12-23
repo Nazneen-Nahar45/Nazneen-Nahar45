@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9afe0493484903.5e66500f8dea4.gif)](https://sifullahrakin.io)
 
 <h1 align="center">Hi 👋, I'm Nazneen Nahar</h1>
-<h3 align="center">A Computer Science Engineering Student. I'm passionate and earnest about solving problems and learning and adopting the state of C, Java, Data Structure.</h3>
+<h3 align="center">A Computer Science Engineering Student. I'm passionate and earnest about solving problems and learning and adopting the state of C, Java, and Data Structure. I love reading books, especially novels.</h3>
 
 [![MasterHead](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)](https://sifullahrakin.io)
 
